@@ -1,3 +1,3 @@
-https://t.me/proxy?server=91.228.155.208&port=443&secret=b17bb7d113ff702f0b54c04012ef5c5a
+https://t-do.ru/proxy?server=91.228.155.208&port=443&secret=b17bb7d113ff702f0b54c04012ef5c5a
 
-https://t.me/socks?server=91.228.155.208&port=55123&user=sockd&pass=sockd
+https://t-do.ru/socks?server=91.228.155.208&port=55123&user=sockd&pass=sockd
